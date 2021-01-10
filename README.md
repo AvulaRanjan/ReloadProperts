@@ -1,5 +1,6 @@
-# Using Spring boot how to Reload properts values without restarting the application.
-# Alredy running producation application you want make any changes - Like example DB password got changed and do need to updat this change in the appplication without down time 
+	# Using Spring boot how to Reload properts values without restarting the application.
+
+	Alredy running producation application you want make any changes - Like example DB password got changed and do need to updat this change in the appplication without down time 
 
 	# Getting Started - Developer tools
 	
@@ -49,7 +50,9 @@
 	
 This is usefull to make password changes without restaring  the application and without down time  
 	
-	
+	2021-01-09 22:45:19.864  INFO 8852 --- [  restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+	2021-01-09 22:45:20.163  INFO 8852 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+	2021-01-09 22:45:20.237  INFO 8852 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '
 
 Production application
 ====================
