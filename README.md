@@ -1,4 +1,5 @@
-# ReloadProperts
+# Using Spring boot how to Reload properts values without restarting the application.
+# Alredy running producation application you want make any changes - Like example DB password got changed and do need to updat this change in the appplication without down time 
 
 	# Getting Started - Developer tools
 	
